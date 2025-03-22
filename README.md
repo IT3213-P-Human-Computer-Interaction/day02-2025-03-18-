@@ -30,7 +30,6 @@ The calculator consists of:
 
 ## Testing
 - Test all numeric inputs to ensure proper display updating
-- Check edge cases (division by zero, large numbers, negative results)
 
 ## Notes
 - The calculator processes one operation at a time
